@@ -8,4 +8,22 @@ export interface IDocumentDisplayProps {
   userDisplayName: string;
 
   context: WebPartContext;
+  
+  documentTitle: string;
+  documentLink: string;
+  openInNewTab: boolean;
+  browseCustomLink: boolean;
+
+  showFooter: boolean;
+  moreTitle: string;
+  moreLink: string;
+  showDownload: boolean;
+  showMore: boolean;
+
+  filePickerResult: any;
+  iconPicker: any;
+  thumbnail: any;
+  customImgPicker: any;
+
+  targetAudience: any;
 }
