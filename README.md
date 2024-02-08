@@ -27,12 +27,6 @@ Short summary on functionality and used technologies.
 | ----------- | ------------------------------------------------------- |
 | folder name | Author details (name, company, twitter alias with link) |
 
-## Version history
-
-| Version | Date             | Comments        |
-| ------- | ---------------- | --------------- |
-| 1.1     | March 10, 2021   | Update comment  |
-| 1.0     | January 29, 2021 | Initial release |
 
 ## Disclaimer
 
@@ -48,7 +42,6 @@ Short summary on functionality and used technologies.
   - **npm install**
   - **gulp serve**
 
-> Include any additional steps as needed.
 
 ## Features
 
@@ -64,10 +57,25 @@ This extension illustrates the following concepts:
 
 > Share your web part with others through Microsoft 365 Patterns and Practices program to get visibility and exposure. More details on the community, open-source projects and other activities from http://aka.ms/m365pnp.
 
-## References
+## References & Issues
+https://spknowledge.com/2021/07/13/spfx-uploading-files-using-react-dropzone/
+https://github.com/pnp/pnpjs/issues/2560
+https://pnp.github.io/pnpjs/sp/files/
+https://www.c-sharpcorner.com/article/how-to-use-filepicker-control-of-pnp-in-spfx-webpart/
+https://github.com/SharePoint/sp-dev-docs/issues/8741
+https://github.com/SharePoint/sp-dev-docs/issues/8741
 
-- [Getting started with SharePoint Framework](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
-- [Building for Microsoft teams](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/build-for-teams-overview)
-- [Use Microsoft Graph in your solution](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/web-parts/get-started/using-microsoft-graph-apis)
-- [Publish SharePoint Framework applications to the Marketplace](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/publish-to-marketplace-overview)
-- [Microsoft 365 Patterns and Practices](https://aka.ms/m365pnp) - Guidance, tooling, samples and open-source controls for your Microsoft 365 development
+## Open document instead of download
+https://learn.microsoft.com/en-us/sharepoint/troubleshoot/lists-and-libraries/files-downloaded-instead-of-opening-office-application
+
+## File Picker
+https://github.com/pnp/sp-dev-fx-controls-react/issues/1101
+https://github.com/pnp/sp-dev-fx-property-controls/issues/449
+https://techcommunity.microsoft.com/t5/sharepoint-developer/webpart-not-rendering-filepicked-utliizing-pnp-filepicker/m-p/3359673
+
+## Colors & Themes
+https://learn.microsoft.com/en-us/sharepoint/dev/spfx/use-theme-colors-in-your-customizations#use-theme-colors-in-your-customizations
+https://learn.microsoft.com/en-us/sharepoint/dev/spfx/use-theme-colors-in-your-customizations
+https://learn.microsoft.com/en-us/sharepoint/dev/design/semantic_slots
+https://hackmd.io/@fluentui/HyEGyTaxD
+
