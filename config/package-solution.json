@@ -1,7 +1,7 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
   "solution": {
-    "name": "document-display-client-side-solution",
+    "name": "my-peel-quick-link-client-side-solution",
     "id": "d21d0a17-881b-49ec-b730-86c2a206525b",
     "version": "1.0.0.0",
     "includeClientSideAssets": true,
@@ -16,10 +16,10 @@
     },
     "metadata": {
       "shortDescription": {
-        "default": "document-display description"
+        "default": "my-peel-quick-link description"
       },
       "longDescription": {
-        "default": "document-display description"
+        "default": "my-peel-quick-link description"
       },
       "screenshotPaths": [],
       "videoUrl": "",
@@ -27,14 +27,14 @@
     },
     "features": [
       {
-        "title": "document-display Feature",
-        "description": "The feature that activates elements of the document-display solution.",
+        "title": "my-peel-quick-link-display Feature",
+        "description": "The feature that activates elements of the my-peel-quick-link solution.",
         "id": "004023b9-04bb-4616-9c11-b558d8a729e4",
         "version": "1.0.0.0"
       }
     ]
   },
   "paths": {
-    "zippedPackage": "solution/document-display.sppkg"
+    "zippedPackage": "solution/my-peel-quick-link.sppkg"
   }
 }
