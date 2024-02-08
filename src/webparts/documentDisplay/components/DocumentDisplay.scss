@@ -1,0 +1,37 @@
+.iconPicker-none, .iconPicker-customImg,
+.filePicker-none, .filePicker-icon,
+.iconPicker-fileIcon, .filePicker-fileIcon,
+.iconPicker-undefined, .filePicker-undefined {
+    display: none;
+}
+
+.customImgPicker-btn{
+    background-color: "[theme: primaryButtonBackground, default: #0078d7]";
+    border-color: "[theme: primaryButtonBackground, default: #0078d7]";
+    color: "[theme: primaryButtonText, default: #ffffff]";
+    border-radius: 2px;
+    box-sizing: border-box;
+    cursor: pointer;
+    padding: 0px 16px;
+    text-decoration: none;
+    text-align: center;
+    min-width: 80px;
+    height: 32px;
+    font-size: 14px;
+    font-weight: 400;
+}
+.customImgPicker-btn:hover{
+    background-color: "[theme: primaryButtonBackgroundHovered, default: #0078d7]";
+    border-color: "[theme: primaryButtonBackgroundHovered, default: #0078d7]";
+    color: "[theme: primaryButtonTextHovered, default: #ffffff]";
+}
+.customImgPicker-btn i{
+    display: none;
+}
+.customImgPicker-btn span{
+    font-weight: 600;
+}
+
+.spPropertyPaneContainer [class^=filePreview]{
+    display: none;
+}
