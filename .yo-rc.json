@@ -12,7 +12,7 @@
     "libraryId": "d21d0a17-881b-49ec-b730-86c2a206525b",
     "environment": "spo",
     "packageManager": "npm",
-    "solutionName": "document-display",
+    "solutionName": "download-link",
     "solutionShortDescription": "document-display description",
     "skipFeatureDeployment": true,
     "isDomainIsolated": false,

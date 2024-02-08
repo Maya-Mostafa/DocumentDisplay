@@ -18,8 +18,8 @@
   "preconfiguredEntries": [{
     "groupId": "5c03119e-3074-46fd-976b-c60198311f70", // Advanced
     "group": { "default": "Advanced" },
-    "title": { "default": "My Peel Quick Link" },
-    "description": { "default": "DocumentDisplay description" },
+    "title": { "default": "Download Link" },
+    "description": { "default": "DocumentLink description" },
     "officeFabricIconFontName": "Page",
     "properties": {
       "documentTitle": "",
