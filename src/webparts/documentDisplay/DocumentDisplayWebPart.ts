@@ -193,6 +193,7 @@ export default class DocumentDisplayWebPart extends BaseClientSideWebPart<IDocum
                   hideWebSearchTab: true,
                   allowExternalLinks: false,
                   disabled: !this.properties.browseCustomLink,
+                  label: this.properties.filePickerResult ? this.properties.filePickerResult.fileAbsoluteUrl : ''
                 }),
                 PropertyPaneTextField('documentLink', {
                   label: 'Custom Link',
